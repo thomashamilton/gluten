@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<Username>insert</Username>
+<FirstName>insert</FirstName>
+<LastName>insert</LastName>
+<Email>insert</Email>
+<ContactNumber>insert</ContactNumber>
+<Status>insert</Status>
+<Group>insert</Group>
+<ItemID>insert</ItemID>
+<ItemGroup>insert</ItemGroup>
+<ItemType>insert</ItemType>
+<ItemName>insert</ItemName>
+<ItemPrice>insert</ItemPrice>
+<ItemLocation>insert</ItemLocation>
+</configuration>

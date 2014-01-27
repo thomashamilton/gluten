@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/THamilton/gitlab/JMeter-Automation-1.0/lib/commons-configuration-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THamilton/gitlab/JMeter-Automation-1.0/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THamilton/gitlab/JMeter-Automation-1.0/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THamilton/gitlab/JMeter-Automation-1.0/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THamilton/Desktop/Gluten/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
