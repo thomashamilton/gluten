@@ -7,5 +7,10 @@
 	<classpathentry kind="lib" path="C:/Users/THamilton/Desktop/Gluten/Gluten/lib/commons-lang-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/THamilton/Desktop/Gluten/Gluten/lib/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/THamilton/Desktop/Gluten/Gluten/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Documents/GitHub/gluten/lib/commons-configuration-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Documents/GitHub/gluten/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Documents/GitHub/gluten/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Documents/GitHub/gluten/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Documents/GitHub/gluten/lib/java-json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
